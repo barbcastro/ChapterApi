@@ -1,0 +1,7 @@
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.csproj.AssemblyReference.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.AssemblyInfoInputs.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.AssemblyInfo.cs
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Barbara\OneDrive\Área de Trabalho\UC\AtividadeOnline\Atividade_Online_2\WebApplication1\ExoAPI\obj\Release\net6.0\ExoApi.MvcApplicationPartsAssemblyInfo.cache
