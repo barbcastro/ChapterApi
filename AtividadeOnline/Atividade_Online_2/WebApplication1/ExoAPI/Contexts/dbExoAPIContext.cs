@@ -5,6 +5,10 @@ namespace ExoApi.Contexts
 {
     public class dbExoAPIContext : DbContext
     {
+        public DbContext()
+        {
+        }
+
         public dbExoAPIContext(DbContextOptions<dbExoAPIContext> options) : base(options)
         {
         }
@@ -18,5 +22,6 @@ namespace ExoApi.Contexts
         }
 
         public DbSet<Projeto> Projetos { get; set; } 
+        public DbSet<Usuario> Usuarios { get; set; }
     }
 }

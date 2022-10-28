@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ExoAPI",
+    "\\ExoAPI\\Contexts",
+    "\\ExoAPI\\Controllers",
+    "\\ExoAPI\\Interfaces",
+    "\\ExoAPI\\Models",
+    "\\ExoAPI\\Repositories"
+  ],
+  "SelectedNode": "\\ExoAPI\\Controllers",
+  "PreviewInSolutionExplorer": false
+}
